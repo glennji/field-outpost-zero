@@ -1,4 +1,4 @@
-<p align="center"><img alt="FO:Z — Field Outpost Zero" src="branding/foz-wordmark-light.png" width="360"></p>
+<p align="center"><img alt="FO:Z — Field Outpost Zero" src="branding/foz-icon.png" width="200"></p>
 
 # Field Outpost: Zero
 
